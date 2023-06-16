@@ -1,14 +1,12 @@
 #include <stdio.h>
-
 /**
- * main - Entry point of the program
+ * main - Entry point
  *
- * Description: Prints a phrase with proper grammar and returns 0
- * Return: 0 (Exit success)
+ * Return: Always 0 (Sucess)
  */
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
 
